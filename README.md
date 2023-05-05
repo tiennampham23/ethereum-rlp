@@ -169,7 +169,7 @@ def to_integer(b):
 
 
 ### Go-ethereum RLP
-> If you don't similar with Golang, you can read other version written by [Typescript](https://github.dev/ethereumjs/ethereumjs-monorepo/tree/master/packages/rlp)
+> If you don't familiar with Golang, you can read other version written by [Typescript](https://github.dev/ethereumjs/ethereumjs-monorepo/tree/master/packages/rlp)
 > With me, this version is easier to understand than the original version written by Golang :D
 
 **RLP package structures:**
